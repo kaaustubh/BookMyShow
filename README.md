@@ -4,3 +4,5 @@ Release Notes For BookMyShow:
 3. Though "Add to fav" functionality is not there, adding the places in Database code is written, but I couldn't complete the entire functionality. I used SQLLite, instead of Coredata, as I didn't have time to learn Core data and implement it. Unfortunately, I didn't get a chance to work on Coredata before. But learning is not a problem for me.
 4. Tested on iPhone 6, iOS 8.2
 5. Async imageview is implemented- LazyloadingImageView.
+
+6. TEST
